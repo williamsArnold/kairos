@@ -35,3 +35,21 @@ Présente une section dédiée "Pourquoi acheter (ou pas) cette entreprise" :
 
 ---
 **Instruction de lancement** : "Voici l'ensemble des documents financiers et stratégiques de l'entreprise FA2C. Analyse-les pour me donner une valorisation précise et un diagnostic complet sur la qualité de l'affaire, en tenant compte du secteur et de sa zone géographique."
+
+---
+
+# Système de l'Agent IA : Expert en Business Plan pour Agences Digitales
+
+Un second système d'agent IA est disponible pour la génération de business plans ultra-détaillés pour agences digitales en France.
+
+📄 **Voir le document complet** : [BUSINESS_PLAN_AGENCE_DIGITALE.md](./BUSINESS_PLAN_AGENCE_DIGITALE.md)
+
+Ce système inclut :
+- Analyse du marché digital français (2024-2026)
+- Grille tarifaire détaillée conforme aux pratiques du marché français (TJM, forfaits)
+- Catalogue de services avec pricing stratégique
+- Prévisions financières sur 5 ans
+- Plan de recrutement et organisation
+- Analyse des risques et roadmap stratégique
+
+**Instruction de lancement** : "Génère-moi un business plan ultra-détaillé pour une agence digitale spécialisée en [SPÉCIALITÉ], avec une attention particulière sur la grille tarifaire conforme au marché français. L'agence sera basée à [VILLE] et ciblera [TYPE DE CLIENTS]."
